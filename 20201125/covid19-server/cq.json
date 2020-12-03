@@ -1,0 +1,340 @@
+{
+  "type": "Feature",
+  "properties": {
+    "totalCured": 580,
+    "totalDeath": 6,
+    "totalIncrease": 0,
+    "cityArray": [
+      {
+        "totalCured": 114,
+        "totalDeath": 4,
+        "totalIncrease": 0,
+        "childStatistic": "万州区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 118
+      },
+      {
+        "totalCured": 28,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "江北区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 28
+      },
+      {
+        "totalCured": 25,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "云阳县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 25
+      },
+      {
+        "totalCured": 23,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "綦江区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 23
+      },
+      {
+        "totalCured": 23,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "合川区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 23
+      },
+      {
+        "totalCured": 22,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "长寿区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 22
+      },
+      {
+        "totalCured": 22,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "奉节县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 22
+      },
+      {
+        "totalCured": 20,
+        "totalDeath": 1,
+        "totalIncrease": 0,
+        "childStatistic": "九龙坡区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 21
+      },
+      {
+        "totalCured": 21,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "忠县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 21
+      },
+      {
+        "totalCured": 20,
+        "totalDeath": 1,
+        "totalIncrease": 0,
+        "childStatistic": "开州区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 21
+      },
+      {
+        "totalCured": 20,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "垫江县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 20
+      },
+      {
+        "totalCured": 20,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "渝中区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 20
+      },
+      {
+        "totalCured": 18,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "潼南区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 18
+      },
+      {
+        "totalCured": 17,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "两江新区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 17
+      },
+      {
+        "totalCured": 17,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "渝北区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 17
+      },
+      {
+        "totalCured": 15,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "南岸区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 15
+      },
+      {
+        "totalCured": 15,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "石柱县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 15
+      },
+      {
+        "totalCured": 14,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "大足区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 14
+      },
+      {
+        "totalCured": 14,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "巫溪县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 14
+      },
+      {
+        "totalCured": 10,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "境外输入",
+        "totalDoubtful": 0,
+        "totalConfirmed": 13
+      },
+      {
+        "totalCured": 10,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "铜梁区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 10
+      },
+      {
+        "totalCured": 10,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "丰都县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 10
+      },
+      {
+        "totalCured": 10,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "巫山县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 10
+      },
+      {
+        "totalCured": 9,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "荣昌区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 9
+      },
+      {
+        "totalCured": 9,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "沙坪坝区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 9
+      },
+      {
+        "totalCured": 9,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "璧山区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 9
+      },
+      {
+        "totalCured": 7,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "大渡口区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 7
+      },
+      {
+        "totalCured": 6,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "巴南区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 6
+      },
+      {
+        "totalCured": 5,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "涪陵区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 5
+      },
+      {
+        "totalCured": 5,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "永川区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 5
+      },
+      {
+        "totalCured": 4,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "梁平区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 4
+      },
+      {
+        "totalCured": 4,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "江津区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 4
+      },
+      {
+        "totalCured": 4,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "高新区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 4
+      },
+      {
+        "totalCured": 2,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "彭水县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 2
+      },
+      {
+        "totalCured": 2,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "城口县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 2
+      },
+      {
+        "totalCured": 2,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "黔江区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 2
+      },
+      {
+        "totalCured": 1,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "万盛经开区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 1
+      },
+      {
+        "totalCured": 1,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "酉阳县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 1
+      },
+      {
+        "totalCured": 1,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "武隆区",
+        "totalDoubtful": 0,
+        "totalConfirmed": 1
+      },
+      {
+        "totalCured": 1,
+        "totalDeath": 0,
+        "totalIncrease": 0,
+        "childStatistic": "秀山县",
+        "totalDoubtful": 0,
+        "totalConfirmed": 1
+      }
+    ],
+    "childStatistic": "重庆市",
+    "totalDoubtful": 0,
+    "totalConfirmed": 589
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.550464,
+      29.563761
+    ]
+  }
+}

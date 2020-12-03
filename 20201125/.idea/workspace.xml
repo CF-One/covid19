@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cdce5d9-ea78-45e0-9469-c5611120f14e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ci</find>
+      <find>city</find>
+      <find>cityArray</find>
+      <find>length</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectId" id="1klKw4lk27acH3oxqqiz4s5E2lA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prosunkitch\Desktop\20201125\covid19-server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/covid19-server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cdce5d9-ea78-45e0-9469-c5611120f14e" name="Default Changelist" comment="" />
+      <created>1606269972126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606269972126</updated>
+      <workItem from="1606269974051" duration="142000" />
+      <workItem from="1606271474564" duration="3033000" />
+      <workItem from="1606285430025" duration="844000" />
+      <workItem from="1606289600930" duration="1451000" />
+      <workItem from="1606351599645" duration="3449000" />
+      <workItem from="1606700638995" duration="1108000" />
+      <workItem from="1606704904996" duration="1848000" />
+      <workItem from="1606721199250" duration="1210000" />
+      <workItem from="1606782903040" duration="8737000" />
+      <workItem from="1606875548425" duration="7654000" />
+      <workItem from="1606956038415" duration="8292000" />
+      <workItem from="1606976362321" duration="2788000" />
+      <workItem from="1606980549835" duration="1263000" />
+      <workItem from="1606985931612" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="148" key="FileChooserDialogImpl" timestamp="1606985937859">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="148" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1606985937859" />
+    <state width="1674" height="196" key="GridCell.Tab.0.bottom" timestamp="1606985907957">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1674" height="196" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1606985907957" />
+    <state width="1674" height="196" key="GridCell.Tab.0.center" timestamp="1606985907957">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1674" height="196" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1606985907957" />
+    <state width="1674" height="196" key="GridCell.Tab.0.left" timestamp="1606985907957">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1674" height="196" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1606985907957" />
+    <state width="1674" height="196" key="GridCell.Tab.0.right" timestamp="1606985907957">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1674" height="196" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1606985907957" />
+  </component>
+</project>
